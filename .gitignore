@@ -1,0 +1,14 @@
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/.idea
+/gradle
+gradle.properties
+gradlew
+gradlew.bat
+settings.gradle
+NUMAD14F-ZachCotter.iml
+keystore.jks
